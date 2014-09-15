@@ -1,4 +1,0 @@
-playpen
-=======
-
-Playing with GitHub
